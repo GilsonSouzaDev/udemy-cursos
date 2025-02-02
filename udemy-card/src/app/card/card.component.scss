@@ -21,4 +21,10 @@
     }
   
   }
+
+:host ::ng-deep app-card-button-cancel .card-cancel-button {
+  background-color: rgb(31, 153, 123) !important;
+}
+
+
   
