@@ -1,0 +1,9 @@
+app-card-button-cancel .card-cancel-button{
+    background-color: yellow !important;
+}
+
+// modificando um componente externo do material design
+// componentes afetados - mat-slider
+.mdc-slider__track--active_fill{
+    border-color: yellowgreen !important;
+}

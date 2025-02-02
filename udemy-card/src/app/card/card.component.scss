@@ -26,5 +26,12 @@
   background-color: rgb(31, 153, 123) !important;
 }
 
+:host ::ng-deep mat-slider .mdc-slider__track--active_fill{
+  border-color: rgb(15, 15, 15) !important;
+}
 
+:host ::ng-deep mat-slider .mdc-slider__thumb-knob{
+  background-color: rgb(5, 5, 5) !important;
+  border-color: rgb(221, 54, 12) !important;
+}
   
